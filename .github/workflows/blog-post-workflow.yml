@@ -1,0 +1,24 @@
+name: Update README with Latest Blog Posts
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest dev.to posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/ahmaddev-codex"
+          max_post_count: 5
+          template: "- $NEWLINE  **[$TITLE]($URL)**$NEWLINE  <sub>$DATE</sub>$NEWLINE"
+          date_format: "MMM DD, YYYY"
+          readme_path: "README.md"
+          commit_message: "chore: update README with latest blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,18 +1,39 @@
 <div align="center">
+
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
-  
-### 🚀 Fullstack Software Engineer |🌟 Community Builder
+
+### 🚀 Fullstack Software Engineer | 🌟 Community Builder
+
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Playground!+🎮;Building+Tomorrow's+Web+Today+🌐;Passionate+Fullstack+Developer+💻;Open+Source+Enthusiast+🔥;AI+%26+Machine+Learning+Explorer+🤖;Always+Coding%2C+Always+Learning+📚" alt="Typing SVG" />
 
+<!-- Social Badges -->
+<p>
+  <a href="https://linkedin.com/in/sheutijani">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/AhmadPMTijani">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/ahmaddev-codex">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://dev.to/ahmaddev-codex">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
+
 </div>
 
+---
+
 ## 🎯 About Me
+
 ```javascript
 const ahmad = {
   title: "Fullstack Software Engineer",
@@ -30,34 +51,69 @@ const ahmad = {
 };
 ```
 
+---
+
+## 🔭 Currently Working On
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🌐 Full-Stack Projects**
+
+Building scalable web apps with React, Next.js & Node.js — focused on performance and clean architecture.
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI/ML Exploration**
+
+Integrating LLMs and AI tooling into real-world applications and developer workflows.
+
+</td>
+<td align="center" width="33%">
+
+**🌍 Community & OSS**
+
+Organizing GDGoC events and contributing to open-source projects that empower developers.
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 ### 📈 Performance Metrics
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddev-codes&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddev-codex&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+
 <table>
 <tr>
 <td width="60%">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahmaddev-codes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahmaddev-codex&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF"/>
 </td>
 <td width="50%">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddev-codes&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddev-codex&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
 </td>
 </tr>
 </table>
 
 ### 🏆 Achievement Showcase
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ahmaddev-codes&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Followers,Stars,Commits,PullRequest,Issues,Repositories"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ahmaddev-codex&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Followers,Stars,Commits,PullRequest,Issues,Repositories"/>
 
 ### 📋 Profile Summary
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmaddev-codes&theme=radical"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmaddev-codex&theme=radical"/>
 
 </div>
 
-
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -154,7 +210,6 @@ const ahmad = {
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
 </td>
-
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
 <br>Vercel
@@ -220,6 +275,8 @@ const ahmad = {
 
 </div>
 
+---
+
 ## 💼 Professional Excellence
 
 <div align="center">
@@ -275,6 +332,68 @@ Code Review:
 </table>
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Project One
+A brief description of a full-stack project showcasing React, Node.js, and PostgreSQL — focused on scalability and clean UX.
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/ahmaddev-codex)
+[![Demo](https://img.shields.io/badge/Live-Demo-36BCF7?style=flat-square&logo=vercel)](https://github.com/ahmaddev-codex)
+
+**Stack:** `React` `Node.js` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%">
+
+### 🤖 Project Two
+An AI-powered developer tool that integrates LLMs to automate repetitive engineering workflows and boost productivity.
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/ahmaddev-codex)
+[![Demo](https://img.shields.io/badge/Live-Demo-36BCF7?style=flat-square&logo=vercel)](https://github.com/ahmaddev-codex)
+
+**Stack:** `Python` `Django` `OpenAI API` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Project Three
+A community platform built to connect developers, share resources, and collaborate on open-source challenges.
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/ahmaddev-codex)
+[![Demo](https://img.shields.io/badge/Live-Demo-36BCF7?style=flat-square&logo=vercel)](https://github.com/ahmaddev-codex)
+
+**Stack:** `Next.js` `TypeScript` `MongoDB` `Vercel`
+
+</td>
+<td width="50%">
+
+### 🛠️ Project Four
+A developer utilities toolkit providing reusable components, hooks, and API helpers for rapid full-stack development.
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/ahmaddev-codex)
+[![Demo](https://img.shields.io/badge/Live-Demo-36BCF7?style=flat-square&logo=vercel)](https://github.com/ahmaddev-codex)
+
+**Stack:** `TypeScript` `Express.js` `Firebase` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+> 📌 Update project names, descriptions, and links to match your actual repositories.
+
+</div>
+
+---
+
 ## 🏆 Achievements & Milestones
 
 <div align="center">
@@ -283,9 +402,8 @@ Code Review:
 
 [![@iahmcodes's Holopin board](https://holopin.me/iahmcodes)](https://holopin.io/@iahmcodes)
 
-</td>
-
 ### 🌟 Achievement Highlights
+
 🏅 **Hacktoberfest 2021 Contributor**
 👨‍🏫 **GDGoC Organizer 2024-2025**
 📚 **Technical Writer & Content Creator**
@@ -293,25 +411,22 @@ Code Review:
 💡 **AI/ML Explorer**
 🌍 **Community Builder**
 
-
 </div>
 
 ---
 
 <div align="center">
 
-### 📚 Latest Blog Posts
-🚀 Building Scalable Web Applications with React and Node.js
-🎯 Mastering System Design: A Developer's Journey
-💡 AI Integration in Modern Web Development
-🔧 Best Practices for Full-Stack Development
+### 📚 Latest Engineering Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 💭 Daily Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shiny)
 
 ### 🎵 Currently Vibing To
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/username)
-
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/317oec42crs34fn4yrs42e3mzxqa)
 
 ### 🌟 Support My Work
 <table>
@@ -329,10 +444,21 @@ Code Review:
 </tr>
 </table>
 
+### 📬 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/sheutijani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/AhmadPMTijani">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
-*"The best way to predict the future is to implement it."* 
+*"The best way to predict the future is to implement it."*
 
-⭐️ From [ahmaddev-codes](https://github.com/ahmaddev-codes) with 💖
+⭐️ From [ahmaddev-codex](https://github.com/ahmaddev-codex) with 💖
 
 </div>
