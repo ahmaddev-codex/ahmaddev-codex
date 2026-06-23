@@ -567,9 +567,6 @@ Open Source Lead:
 
 <br>
 
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/317oec42crs34fn4yrs42e3mzxqa)
-
 ### 🌟 Support My Work
 <table>
 <tr>
