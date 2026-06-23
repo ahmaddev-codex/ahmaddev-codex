@@ -539,7 +539,8 @@ Open Source Lead:
 <!-- NETFLIX-BLOG:END -->
 
 #### 🏠 Airbnb
-<!-- AIRBNB-BLOG:START -->
+<!-- AIRBNB-BLOG:START -->- **[Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world](https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4)** · Jun 09, 2026
+- **[Sitar-agent: Building a reliable dynamic configuration sidecar at scale](https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4)** · Jun 04, 2026
 <!-- AIRBNB-BLOG:END -->
 
 #### 📦 Dropbox
