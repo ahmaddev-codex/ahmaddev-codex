@@ -2,9 +2,8 @@ name: Update README with Engineering Blogs
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -12,22 +11,46 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Spotify
+      - name: 🎧 Spotify
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://engineering.atspotify.com/feed/"
           max_post_count: 2
-          template: "- **[$title]($url)** <sub>$date</sub>$newline"
+          template: "- **[$title]($url)** · $date$newline"
+          date_format: "mmm dd, yyyy"
           readme_path: "README.md"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           comment_tag_name: "SPOTIFY-BLOG"
 
-      - name: Netflix
+      - name: 🎬 Netflix
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://netflixtechblog.com/feed/"
           max_post_count: 2
-          template: "- **[$title]($url)** <sub>$date</sub>$newline"
+          template: "- **[$title]($url)** · $date$newline"
+          date_format: "mmm dd, yyyy"
           readme_path: "README.md"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           comment_tag_name: "NETFLIX-BLOG"
+
+      - name: 🏠 Airbnb
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/airbnb-engineering"
+          max_post_count: 2
+          template: "- **[$title]($url)** · $date$newline"
+          date_format: "mmm dd, yyyy"
+          readme_path: "README.md"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "AIRBNB-BLOG"
+
+      - name: 📦 Dropbox
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dropbox.tech/feed"
+          max_post_count: 2
+          template: "- **[$title]($url)** · $date$newline"
+          date_format: "mmm dd, yyyy"
+          readme_path: "README.md"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "DROPBOX-BLOG"
