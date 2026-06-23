@@ -11,11 +11,11 @@ jobs:
     name: Update README with latest engineering blogs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://engineering.atspotify.com/feed/,https://netflixtechblog.com/feed/,https://eng.uber.com/feed/,https://medium.com/feed/airbnb-engineering,https://dropbox.tech/feed"
+          feed_list: "https://engineering.atspotify.com/feed/,https://netflixtechblog.com/feed/,https://medium.com/feed/airbnb-engineering,https://dropbox.tech/feed"
           max_post_count: 8
           template: "- $NEWLINE  **[$TITLE]($URL)**$NEWLINE  <sub>$DATE | $AUTHOR</sub>$NEWLINE"
           date_format: "MMM DD, YYYY"
