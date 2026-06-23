@@ -534,7 +534,8 @@ Open Source Lead:
 <!-- SPOTIFY-BLOG:END -->
 
 #### 🎬 Netflix
-<!-- NETFLIX-BLOG:START -->
+<!-- NETFLIX-BLOG:START -->- **[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)** · Jun 23, 2026
+- **[How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4)** · Jun 22, 2026
 <!-- NETFLIX-BLOG:END -->
 
 #### 🏠 Airbnb
