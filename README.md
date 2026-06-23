@@ -529,7 +529,8 @@ Open Source Lead:
 ### 📚 Latest Engineering Articles
 
 #### 🎧 Spotify
-<!-- SPOTIFY-BLOG:START -->
+<!-- SPOTIFY-BLOG:START -->- **[Encoding Your Domain Expert: The Context Layer Behind Spotify&#39;s Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/)** · Jun 10, 2026
+- **[Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/)** · Jun 03, 2026
 <!-- SPOTIFY-BLOG:END -->
 
 #### 🎬 Netflix
