@@ -3,7 +3,7 @@
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 
-### Fullstack Software Engineer | Technical Leader |Community Builder
+### Fullstack Software Engineer | Technical Leader
 
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Playground!+🎮;Building+Tomorrow's+Web+Today+🌐;Passionate+Fullstack+Developer+💻;Open+Source+Enthusiast+🔥;AI+%26+Machine+Learning+Explorer+🤖;Always+Coding%2C+Always+Learning+📚" alt="Typing SVG" />
