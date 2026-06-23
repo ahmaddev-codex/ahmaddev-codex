@@ -528,15 +528,21 @@ Open Source Lead:
 
 ### 📚 Latest Engineering Articles
 
-### 🎧 Spotify
-<!-- SPOTIFY-BLOG:START -->- **[Encoding Your Domain Expert: The Context Layer Behind Spotify&#39;s Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/)** <sub>Wed Jun 10 2026 1:01 PM</sub>
-- **[Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/)** <sub>Wed Jun 03 2026 3:50 PM</sub>
+#### 🎧 Spotify
+<!-- SPOTIFY-BLOG:START -->
 <!-- SPOTIFY-BLOG:END -->
 
-### 🎬 Netflix
-<!-- NETFLIX-BLOG:START -->- **[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)** <sub>Tue Jun 23 2026 12:31 AM</sub>
-- **[How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4)** <sub>Mon Jun 22 2026 9:35 PM</sub>
+#### 🎬 Netflix
+<!-- NETFLIX-BLOG:START -->
 <!-- NETFLIX-BLOG:END -->
+
+#### 🏠 Airbnb
+<!-- AIRBNB-BLOG:START -->
+<!-- AIRBNB-BLOG:END -->
+
+#### 📦 Dropbox
+<!-- DROPBOX-BLOG:START -->
+<!-- DROPBOX-BLOG:END -->
 
 <br>
 
