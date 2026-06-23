@@ -2,15 +2,15 @@
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmaddev-codex/ahmaddev-codex/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmaddev-codex/ahmaddev-codex/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmaddev-codex/ahmaddev-codex/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### 🚀 Fullstack Software Engineer | 🌟 Community Builder
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Playground!+🎮;Building+Tomorrow's+Web+Today+🌐;Passionate+Fullstack+Developer+💻;Open+Source+Enthusiast+🔥;AI+%26+Machine+Learning+Explorer+🤖;Always+Coding%2C+Always+Learning+📚" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Playground!+🎮;Building+Tomorrow's+Web+Today+🌐;Passionate+Fullstack+Developer+💻;Open+Source+Enthusiast+🔥;AI+%26+Machine+Learning+Explorer+🤖;Always+Coding%2C+Always+Learning+📚" alt="Typing SVG" />
 
 <!-- Social Badges -->
 <p>
@@ -26,6 +26,11 @@
   <a href="https://dev.to/ahmaddev-codex">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
+</p>
+
+<!-- Visitor Counter -->
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmaddev-codex.ahmaddev-codex&left_color=0D1117&right_color=36BCF7&left_text=Profile%20Visits" alt="Visitor Badge"/>
 </p>
 
 </div>
@@ -90,11 +95,11 @@ Organizing GDGoC events and contributing to open-source projects that empower de
 <div align="center">
 
 ### 📈 Performance Metrics
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddev-codex&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+<img width="90%" src="https://streak-stats.demolab.com/?user=ahmaddev-codex&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahmaddev-codex&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF"/>
 </td>
 <td width="50%">
@@ -105,11 +110,17 @@ Organizing GDGoC events and contributing to open-source projects that empower de
 
 ### 🏆 Achievement Showcase
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ahmaddev-codex&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Followers,Stars,Commits,PullRequest,Issues,Repositories"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ahmaddev-codex&theme=radical&margin-w=4"/>
+
+<br>
 
 ### 📋 Profile Summary
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmaddev-codex&theme=radical"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmaddev-codex&theme=radical&hide_border=true"/>
+
+### 📊 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmaddev-codex&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&area=true&area_color=0D1117"/>
 
 </div>
 
@@ -123,35 +134,35 @@ Organizing GDGoC events and contributing to open-source projects that empower de
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=html&theme=light" width="48" height="48" alt="HTML5" />
 <br>HTML5
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=css&theme=light" width="48" height="48" alt="CSS3" />
 <br>CSS3
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+<img src="https://skillicons.dev/icons?i=sass&theme=light" width="48" height="48" alt="Sass" />
 <br>Sass
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="48" height="48" alt="TailwindCSS" />
 <br>Tailwind
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=js&theme=light" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=ts&theme=light" width="48" height="48" alt="TypeScript" />
 <br>TypeScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<img src="https://skillicons.dev/icons?i=react&theme=light" width="48" height="48" alt="React" />
 <br>React
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" height="48" alt="Next.js" />
 <br>Next.js
 </td>
 </tr>
@@ -161,23 +172,23 @@ Organizing GDGoC events and contributing to open-source projects that empower de
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" height="48" alt="Node.js" />
 <br>Node.js
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<img src="https://skillicons.dev/icons?i=express&theme=light" width="48" height="48" alt="Express.js" />
 <br>Express.js
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<img src="https://skillicons.dev/icons?i=python&theme=light" width="48" height="48" alt="Python" />
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<img src="https://skillicons.dev/icons?i=django&theme=light" width="48" height="48" alt="Django" />
 <br>Django
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<img src="https://skillicons.dev/icons?i=c&theme=light" width="48" height="48" alt="C" />
 <br>C
 </td>
 </tr>
@@ -187,31 +198,31 @@ Organizing GDGoC events and contributing to open-source projects that empower de
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="48" height="48" alt="MongoDB" />
 <br>MongoDB
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" height="48" alt="MySQL" />
 <br>MySQL
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" height="48" alt="PostgreSQL" />
 <br>PostgreSQL
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<img src="https://skillicons.dev/icons?i=firebase&theme=light" width="48" height="48" alt="Firebase" />
 <br>Firebase
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" height="48" alt="AWS" />
 <br>AWS
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" height="48" alt="Docker" />
 <br>Docker
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=vercel&theme=light" width="48" height="48" alt="Vercel" />
 <br>Vercel
 </td>
 </tr>
@@ -221,35 +232,35 @@ Organizing GDGoC events and contributing to open-source projects that empower de
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<img src="https://skillicons.dev/icons?i=git&theme=light" width="48" height="48" alt="Git" />
 <br>Git
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub" />
 <br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48" height="48" alt="VS Code" />
 <br>VS Code
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime Text" />
+<img src="https://skillicons.dev/icons?i=sublime&theme=light" width="48" height="48" alt="Sublime Text" />
 <br>Sublime
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<img src="https://skillicons.dev/icons?i=postman&theme=light" width="48" height="48" alt="Postman" />
 <br>Postman
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+<img src="https://skillicons.dev/icons?i=webpack&theme=light" width="48" height="48" alt="Webpack" />
 <br>Webpack
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<img src="https://skillicons.dev/icons?i=vite&theme=light" width="48" height="48" alt="Vite" />
 <br>Vite
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" height="48" alt="Linux" />
 <br>Linux
 </td>
 </tr>
@@ -259,16 +270,54 @@ Organizing GDGoC events and contributing to open-source projects that empower de
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+<img src="https://skillicons.dev/icons?i=ps&theme=light" width="48" height="48" alt="Photoshop" />
 <br>Photoshop
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="Adobe XD" />
+<img src="https://skillicons.dev/icons?i=xd&theme=light" width="48" height="48" alt="Adobe XD" />
 <br>Adobe XD
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=figma&theme=light" width="48" height="48" alt="Figma" />
 <br>Figma
+</td>
+</tr>
+</table>
+
+### 🚀 Deployment & DevOps
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel&theme=light" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=netlify&theme=light" width="48" height="48" alt="Netlify" />
+<br>Netlify
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="48" height="48" alt="GitHub Actions" />
+<br>GitHub Actions
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins&theme=light" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nginx&theme=light" width="48" height="48" alt="Nginx" />
+<br>Nginx
 </td>
 </tr>
 </table>
@@ -334,62 +383,112 @@ Code Review:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Bookmarked Projects
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 5px;">
+    <!-- AI Agent Skills -->
+    <a href="https://github.com/mattpocock/skills">
+      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpocock&repo=skills&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+    </a>
+    <!-- Claude Mythos -->
+    <a href="https://github.com/kyegomez/OpenMythos">
+      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=kyegomez&repo=OpenMythos&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+    </a>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 5px;">
+    <!-- System Prompts -->
+    <a href="https://github.com/ahmaddev-codex/CL4R1T4S">
+      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmaddev-codex&repo=CL4R1T4S&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+    </a>
+    <!-- Claude Code -->
+    <a href="https://github.com/anthropics/claude-code">
+      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthropics&repo=claude-code&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+    </a>
+  </div>
+</div>
+
+---
+
+## 🌟 Impactful Repositories
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 5px;">
+    <!-- LangChain -->
+    <a href="https://github.com/langchain-ai/langchain">
+      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langchain&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+    </a>
+    <!-- AutoGPT -->
+    <a href="https://github.com/Significant-Gravitas/AutoGPT">
+      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=Significant-Gravitas&repo=AutoGPT&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+    </a>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 5px;">
+    <!-- System Design -->
+    <a href="https://github.com/donnemartin/system-design">
+      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=system-design&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+    </a>
+    <!-- Clean Code -->
+    <a href="https://github.com/ryanmcdermott/clean-code-javascript">
+      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmcdermott&repo=clean-code-javascript&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+    </a>
+  </div>
+</div>
+
+---
+
+## 📚 Learning Roadmap
 
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
-### 🌐 Project One
-A brief description of a full-stack project showcasing React, Node.js, and PostgreSQL — focused on scalability and clean UX.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/ahmaddev-codex)
-[![Demo](https://img.shields.io/badge/Live-Demo-36BCF7?style=flat-square&logo=vercel)](https://github.com/ahmaddev-codex)
-
-**Stack:** `React` `Node.js` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%">
-
-### 🤖 Project Two
-An AI-powered developer tool that integrates LLMs to automate repetitive engineering workflows and boost productivity.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/ahmaddev-codex)
-[![Demo](https://img.shields.io/badge/Live-Demo-36BCF7?style=flat-square&logo=vercel)](https://github.com/ahmaddev-codex)
-
-**Stack:** `Python` `Django` `OpenAI API` `AWS`
+**🤖 AI/ML Mastery**
+```yaml
+LLMs & RAG:
+██████████████░░ 80%
+Prompt Engineering:
+███████████████░░ 85%
+Agent Development:
+████████████░░░░ 70%
+Fine-tuning:
+███████████░░░░░ 65%
+```
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td align="center" width="33%">
 
-### 📊 Project Three
-A community platform built to connect developers, share resources, and collaborate on open-source challenges.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/ahmaddev-codex)
-[![Demo](https://img.shields.io/badge/Live-Demo-36BCF7?style=flat-square&logo=vercel)](https://github.com/ahmaddev-codex)
-
-**Stack:** `Next.js` `TypeScript` `MongoDB` `Vercel`
+**⚡ Advanced Engineering**
+```yaml
+Microservices:
+██████████████░░░ 75%
+Distributed Systems:
+████████████░░░░ 70%
+Performance Opt:
+██████████████░░░ 75%
+Cloud Architecture:
+███████████████░░ 80%
+```
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
-### 🛠️ Project Four
-A developer utilities toolkit providing reusable components, hooks, and API helpers for rapid full-stack development.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/ahmaddev-codex)
-[![Demo](https://img.shields.io/badge/Live-Demo-36BCF7?style=flat-square&logo=vercel)](https://github.com/ahmaddev-codex)
-
-**Stack:** `TypeScript` `Express.js` `Firebase` `Tailwind`
+**🎯 Leadership Growth**
+```yaml
+Tech Strategy:
+███████████████░░ 80%
+Team Scaling:
+██████████████░░░ 75%
+Product Thinking:
+██████████████░░░ 75%
+Open Source Lead:
+████████████████░ 85%
+```
 
 </td>
 </tr>
 </table>
-
-> 📌 Update project names, descriptions, and links to match your actual repositories.
-
 </div>
 
 ---
@@ -400,7 +499,9 @@ A developer utilities toolkit providing reusable components, hooks, and API help
 
 ### 🎖️ Recognition & Contributions
 
-[![@iahmcodes's Holopin board](https://holopin.me/iahmcodes)](https://holopin.io/@iahmcodes)
+[![@ahmaddev-codex's Holopin board](https://holopin.me/ahmaddev-codes)](https://holopin.io/@ahmaddev-codes)
+
+<br>
 
 ### 🌟 Achievement Highlights
 
@@ -422,8 +523,13 @@ A developer utilities toolkit providing reusable components, hooks, and API help
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+
 ### 💭 Daily Dev Quote
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shiny)
+
+<br>
 
 ### 🎵 Currently Vibing To
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/317oec42crs34fn4yrs42e3mzxqa)

@@ -1,4 +1,4 @@
-name: Update README with Latest Blog Posts
+name: Update README with Engineering Blogs
 
 on:
   schedule:
@@ -8,17 +8,17 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest dev.to posts
+    name: Update README with latest engineering blogs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/ahmaddev-codex"
-          max_post_count: 5
-          template: "- $NEWLINE  **[$TITLE]($URL)**$NEWLINE  <sub>$DATE</sub>$NEWLINE"
+          feed_list: "https://engineering.atspotify.com/feed/,https://netflixtechblog.com/feed/,https://eng.uber.com/feed/,https://medium.com/feed/airbnb-engineering,https://dropbox.tech/feed"
+          max_post_count: 8
+          template: "- $NEWLINE  **[$TITLE]($URL)**$NEWLINE  <sub>$DATE | $AUTHOR</sub>$NEWLINE"
           date_format: "MMM DD, YYYY"
           readme_path: "README.md"
-          commit_message: "chore: update README with latest blog posts"
+          commit_message: "chore: update README with latest engineering blogs"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
