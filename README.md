@@ -1,16 +1,12 @@
 <div align="center">
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmaddev-codex/ahmaddev-codex/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmaddev-codex/ahmaddev-codex/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmaddev-codex/ahmaddev-codex/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 
 ### 🚀 Fullstack Software Engineer | 🌟 Community Builder
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Playground!+🎮;Building+Tomorrow's+Web+Today+🌐;Passionate+Fullstack+Developer+💻;Open+Source+Enthusiast+🔥;AI+%26+Machine+Learning+Explorer+🤖;Always+Coding%2C+Always+Learning+📚" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Playground!+🎮;Building+Tomorrow's+Web+Today+🌐;Passionate+Fullstack+Developer+💻;Open+Source+Enthusiast+🔥;AI+%26+Machine+Learning+Explorer+🤖;Always+Coding%2C+Always+Learning+📚" alt="Typing SVG" />
 
 <!-- Social Badges -->
 <p>
@@ -386,26 +382,32 @@ Code Review:
 ## 🚀 Bookmarked Projects
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 5px;">
-    <!-- AI Agent Skills -->
-    <a href="https://github.com/mattpocock/skills">
-      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpocock&repo=skills&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-    </a>
-    <!-- Claude Mythos -->
-    <a href="https://github.com/kyegomez/OpenMythos">
-      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=kyegomez&repo=OpenMythos&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-    </a>
-  </div>
-  <div style="display: flex; justify-content: center; gap: 5px;">
-    <!-- System Prompts -->
-    <a href="https://github.com/ahmaddev-codex/CL4R1T4S">
-      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmaddev-codex&repo=CL4R1T4S&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-    </a>
-    <!-- Claude Code -->
-    <a href="https://github.com/anthropics/claude-code">
-      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthropics&repo=claude-code&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-    </a>
-  </div>
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/mattpocock/skills">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpocock&repo=skills&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/kyegomez/OpenMythos">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=kyegomez&repo=OpenMythos&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/ahmaddev-codex/CL4R1T4S">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmaddev-codex&repo=CL4R1T4S&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/anthropics/claude-code">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthropics&repo=claude-code&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -413,26 +415,32 @@ Code Review:
 ## 🌟 Impactful Repositories
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 5px;">
-    <!-- LangChain -->
-    <a href="https://github.com/langchain-ai/langchain">
-      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langchain&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-    </a>
-    <!-- AutoGPT -->
-    <a href="https://github.com/Significant-Gravitas/AutoGPT">
-      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=Significant-Gravitas&repo=AutoGPT&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-    </a>
-  </div>
-  <div style="display: flex; justify-content: center; gap: 5px;">
-    <!-- System Design -->
-    <a href="https://github.com/donnemartin/system-design">
-      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=system-design&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-    </a>
-    <!-- Clean Code -->
-    <a href="https://github.com/ryanmcdermott/clean-code-javascript">
-      <img align="center" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmcdermott&repo=clean-code-javascript&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-    </a>
-  </div>
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/langchain-ai/langchain">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langchain&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Significant-Gravitas/AutoGPT">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Significant-Gravitas&repo=AutoGPT&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/donnemartin/system-design">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=system-design&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/ryanmcdermott/clean-code-javascript">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanmcdermott&repo=clean-code-javascript&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -499,7 +507,7 @@ Open Source Lead:
 
 ### 🎖️ Recognition & Contributions
 
-[![@ahmaddev-codex's Holopin board](https://holopin.me/ahmaddev-codes)](https://holopin.io/@ahmaddev-codes)
+[![@ahmaddev-codex's Holopin board](https://holopin.me/ahmaddev-codex)](https://holopin.io/@ahmaddev-codex)
 
 <br>
 
