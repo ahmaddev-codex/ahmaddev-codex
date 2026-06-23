@@ -544,7 +544,8 @@ Open Source Lead:
 <!-- AIRBNB-BLOG:END -->
 
 #### 📦 Dropbox
-<!-- DROPBOX-BLOG:START -->
+<!-- DROPBOX-BLOG:START -->- **[How Dropbox uses MCP and Dash to close the design-to-code security gap](https://dropbox.tech/security/dropbox-mcp-dash-design-code-security)** · Jun 12, 2026
+- **[Beyond code generation: rethinking engineering productivity in the age of AI agents](https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents)** · May 28, 2026
 <!-- DROPBOX-BLOG:END -->
 
 <br>
