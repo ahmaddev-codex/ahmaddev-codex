@@ -528,7 +528,30 @@ Open Source Lead:
 
 ### 📚 Latest Engineering Articles
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- 
+  **[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)**
+  <sub>Jun 23, 2026 | $author</sub>
+- 
+  **[How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4)**
+  <sub>Jun 22, 2026 | $author</sub>
+- 
+  **[The Data Canary: How Netflix Validates Catalog Metadata](https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4)**
+  <sub>Jun 19, 2026 | $author</sub>
+- 
+  **[Data Projects: Managing Data Assets at Netflix Scale](https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4)**
+  <sub>Jun 19, 2026 | $author</sub>
+- 
+  **[Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning](https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss----2615bd06b42e---4)**
+  <sub>Jun 19, 2026 | $author</sub>
+- 
+  **[The Evolution of Cassandra Data Movement at Netflix](https://netflixtechblog.com/the-evolution-of-cassandra-data-movement-at-netflix-6e13329c80a1?source=rss----2615bd06b42e---4)**
+  <sub>Jun 19, 2026 | $author</sub>
+- 
+  **[Thinking Fast &amp; Slow for a Personalized Notification System](https://netflixtechblog.com/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss----2615bd06b42e---4)**
+  <sub>Jun 19, 2026 | $author</sub>
+- 
+  **[A Human-Augmenting Agentic Workflow for Causal Inference](https://netflixtechblog.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss----2615bd06b42e---4)**
+  <sub>Jun 19, 2026 | $author</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
