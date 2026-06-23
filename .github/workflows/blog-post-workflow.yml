@@ -8,17 +8,26 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest engineering blogs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Spotify
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://engineering.atspotify.com/feed/,https://netflixtechblog.com/feed/,https://medium.com/feed/airbnb-engineering,https://dropbox.tech/feed"
-          max_post_count: 8
-          template: "- $newline  **[$title]($url)**$newline  <sub>$date | $author</sub>$newline"
-          date_format: "mmm dd, yyyy"
+          feed_list: "https://engineering.atspotify.com/feed/"
+          max_post_count: 2
+          template: "- **[$title]($url)** <sub>$date</sub>$newline"
           readme_path: "README.md"
-          commit_message: "chore: update README with latest engineering blogs"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "SPOTIFY-BLOG"
+
+      - name: Netflix
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://netflixtechblog.com/feed/"
+          max_post_count: 2
+          template: "- **[$title]($url)** <sub>$date</sub>$newline"
+          readme_path: "README.md"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "NETFLIX-BLOG"
