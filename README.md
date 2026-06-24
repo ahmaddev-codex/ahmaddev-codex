@@ -530,33 +530,30 @@ Open Source Lead:
 
 #### 🎧 Spotify
 <!-- SPOTIFY-BLOG:START -->
-
-- **[Encoding Your Domain Expert: The Context Layer Behind Spotify&#39;s Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/)** · Jun 10, 2026
-- **[Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/)** · Jun 03, 2026
-  
+#### 🎧 Spotify
+- **[Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/)** · Jun 10, 2026
+- **[Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/)** · Jun 3, 2026
 <!-- SPOTIFY-BLOG:END -->
 
 #### 🎬 Netflix
 <!-- NETFLIX-BLOG:START -->
-
+#### 🎬 Netflix
 - **[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)** · Jun 23, 2026
 - **[How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4)** · Jun 22, 2026
-
 <!-- NETFLIX-BLOG:END -->
 
 #### 🏠 Airbnb
 <!-- AIRBNB-BLOG:START -->
-
-- **[Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world](https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4)** · Jun 09, 2026
-- **[Sitar-agent: Building a reliable dynamic configuration sidecar at scale](https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4)** · Jun 04, 2026
-  
+#### 🏠 Airbnb
+- **[Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world](https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4)** · Jun 9, 2026
+- **[Sitar-agent: Building a reliable dynamic configuration sidecar at scale](https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4)** · Jun 4, 2026
 <!-- AIRBNB-BLOG:END -->
 
 #### 📦 Dropbox
 <!-- DROPBOX-BLOG:START -->
+#### 📦 Dropbox
 - **[How Dropbox uses MCP and Dash to close the design-to-code security gap](https://dropbox.tech/security/dropbox-mcp-dash-design-code-security)** · Jun 12, 2026
 - **[Beyond code generation: rethinking engineering productivity in the age of AI agents](https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents)** · May 28, 2026
-  
 <!-- DROPBOX-BLOG:END -->
 
 <br>
