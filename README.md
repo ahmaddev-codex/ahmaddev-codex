@@ -329,7 +329,7 @@ Organizing GDGoC events and contributing to open-source projects that empower de
 ### 🔥 Core Competencies
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 **🏗️ Architecture & Design**
 ```yaml
@@ -344,7 +344,7 @@ Microservices:
 ```
 
 </td>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 **🚀 Development & Delivery**
 ```yaml
@@ -359,7 +359,7 @@ Performance:
 ```
 
 </td>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 **🎯 Leadership & Strategy**
 ```yaml
@@ -450,7 +450,7 @@ Code Review:
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 **🤖 AI/ML Mastery**
 ```yaml
@@ -465,7 +465,7 @@ Fine-tuning:
 ```
 
 </td>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 **⚡ Advanced Engineering**
 ```yaml
@@ -480,7 +480,7 @@ Cloud Architecture:
 ```
 
 </td>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 **🎯 Leadership Growth**
 ```yaml
@@ -507,7 +507,7 @@ Open Source Lead:
 
 ### 🎖️ Recognition & Contributions
 
-[![@ahmaddev-codex's Holopin board](https://holopin.me/ahmaddev-codex)](https://holopin.io/@ahmaddev-codex)
+[![@ahmaddev-codex's Holopin board](https://holopin.me/iahmcodes)](https://holopin.io/@iahmcodes)
 
 <br>
 
