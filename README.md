@@ -548,8 +548,9 @@ Open Source Lead:
 
 #### 📦 Dropbox
 <!-- DROPBOX-BLOG:START -->
+#### 📦 Dropbox
+- **[How we used DSPy to turn AI evaluations into better responses in Dash chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat)** · Jun 25, 2026
 - **[How Dropbox uses MCP and Dash to close the design-to-code security gap](https://dropbox.tech/security/dropbox-mcp-dash-design-code-security)** · Jun 12, 2026
-- **[Beyond code generation: rethinking engineering productivity in the age of AI agents](https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents)** · May 28, 2026
 <!-- DROPBOX-BLOG:END -->
 
 <br>
