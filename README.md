@@ -536,8 +536,8 @@ Open Source Lead:
 
 <!-- NETFLIX-BLOG:START -->
 #### 🎬 Netflix
+- **[GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4)** · Jun 29, 2026
 - **[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)** · Jun 23, 2026
-- **[How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4)** · Jun 22, 2026
 <!-- NETFLIX-BLOG:END -->
 
 <!-- AIRBNB-BLOG:START -->
