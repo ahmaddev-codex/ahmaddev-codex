@@ -513,12 +513,8 @@ Open Source Lead:
 
 ### 🌟 Achievement Highlights
 
-🏅 **Hacktoberfest 2021 Contributor**
-👨‍🏫 **GDGoC Organizer 2024-2025**
-📚 **Technical Writer & Content Creator**
-🤝 **Open Source Software (OSS) Developer**
-💡 **AI/ML Explorer**
-🌍 **Community Builder**
+- 🏅 **Hacktoberfest 2021, 2023 Contributor**
+- 👨‍🏫 **GDGoC Organizer 2024-2025**
 
 </div>
 
@@ -546,7 +542,6 @@ Open Source Lead:
 - **[Sitar-agent: Building a reliable dynamic configuration sidecar at scale](https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4)** · Jun 4, 2026
 <!-- AIRBNB-BLOG:END -->
 
-#### 📦 Dropbox
 <!-- DROPBOX-BLOG:START -->
 #### 📦 Dropbox
 - **[How we used DSPy to turn AI evaluations into better responses in Dash chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat)** · Jun 25, 2026
