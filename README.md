@@ -532,14 +532,14 @@ Open Source Lead:
 
 <!-- NETFLIX-BLOG:START -->
 #### 🎬 Netflix
+- **[Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4)** · Jul 13, 2026
 - **[GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4)** · Jun 29, 2026
-- **[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)** · Jun 23, 2026
 <!-- NETFLIX-BLOG:END -->
 
 <!-- AIRBNB-BLOG:START -->
 #### 🏠 Airbnb
+- **[From weeks to a day: how we made LLM evaluation fast enough to iterate on](https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4)** · Jul 14, 2026
 - **[Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world](https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4)** · Jun 9, 2026
-- **[Sitar-agent: Building a reliable dynamic configuration sidecar at scale](https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4)** · Jun 4, 2026
 <!-- AIRBNB-BLOG:END -->
 
 <!-- DROPBOX-BLOG:START -->
