@@ -526,8 +526,8 @@ Open Source Lead:
 
 <!-- SPOTIFY-BLOG:START -->
 #### 🎧 Spotify
+- **[Content Ingestion & Podcast Video Incident Report](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/)** · Jul 20, 2026
 - **[Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/)** · Jun 10, 2026
-- **[Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify](https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/)** · Jun 3, 2026
 <!-- SPOTIFY-BLOG:END -->
 
 <!-- NETFLIX-BLOG:START -->
@@ -544,8 +544,8 @@ Open Source Lead:
 
 <!-- DROPBOX-BLOG:START -->
 #### 📦 Dropbox
+- **[How our universal content processing platform Riviera evolved for AI and beyond](https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond)** · Jul 20, 2026
 - **[How we used DSPy to turn AI evaluations into better responses in Dash chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat)** · Jun 25, 2026
-- **[How Dropbox uses MCP and Dash to close the design-to-code security gap](https://dropbox.tech/security/dropbox-mcp-dash-design-code-security)** · Jun 12, 2026
 <!-- DROPBOX-BLOG:END -->
 
 <br>
