@@ -538,8 +538,8 @@ Open Source Lead:
 
 <!-- AIRBNB-BLOG:START -->
 #### 🏠 Airbnb
+- **[Personalizing Airbnb search by learning from the guest journey](https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4)** · Jul 21, 2026
 - **[From weeks to a day: how we made LLM evaluation fast enough to iterate on](https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4)** · Jul 14, 2026
-- **[Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world](https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4)** · Jun 9, 2026
 <!-- AIRBNB-BLOG:END -->
 
 <!-- DROPBOX-BLOG:START -->
