@@ -526,8 +526,8 @@ Open Source Lead:
 
 <!-- SPOTIFY-BLOG:START -->
 #### 🎧 Spotify
+- **[Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/)** · Jul 27, 2026
 - **[Content Ingestion & Podcast Video Incident Report](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/)** · Jul 20, 2026
-- **[Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant](https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/)** · Jun 10, 2026
 <!-- SPOTIFY-BLOG:END -->
 
 <!-- NETFLIX-BLOG:START -->
