@@ -538,8 +538,8 @@ Open Source Lead:
 
 <!-- AIRBNB-BLOG:START -->
 #### 🏠 Airbnb
+- **[Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4)** · Jul 28, 2026
 - **[Personalizing Airbnb search by learning from the guest journey](https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4)** · Jul 21, 2026
-- **[From weeks to a day: how we made LLM evaluation fast enough to iterate on](https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4)** · Jul 14, 2026
 <!-- AIRBNB-BLOG:END -->
 
 <!-- DROPBOX-BLOG:START -->
