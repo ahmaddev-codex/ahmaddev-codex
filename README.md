@@ -532,8 +532,8 @@ Open Source Lead:
 
 <!-- NETFLIX-BLOG:START -->
 #### 🎬 Netflix
+- **[GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4)** · Jul 30, 2026
 - **[In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4)** · Jul 17, 2026
-- **[Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4)** · Jul 13, 2026
 <!-- NETFLIX-BLOG:END -->
 
 <!-- AIRBNB-BLOG:START -->
