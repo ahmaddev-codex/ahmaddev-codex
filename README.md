@@ -532,8 +532,8 @@ Open Source Lead:
 
 <!-- NETFLIX-BLOG:START -->
 #### 🎬 Netflix
+- **[Modeling Device Capabilities for Analytics](https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4)** · Jul 31, 2026
 - **[GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4)** · Jul 30, 2026
-- **[In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4)** · Jul 17, 2026
 <!-- NETFLIX-BLOG:END -->
 
 <!-- AIRBNB-BLOG:START -->
