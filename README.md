@@ -538,8 +538,8 @@ Open Source Lead:
 
 <!-- AIRBNB-BLOG:START -->
 #### 🏠 Airbnb
+- **[Flexible Authentication: Reimagining authentication for millions of users at Airbnb](https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4)** · Aug 12, 2026
 - **[Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4)** · Jul 28, 2026
-- **[Personalizing Airbnb search by learning from the guest journey](https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4)** · Jul 21, 2026
 <!-- AIRBNB-BLOG:END -->
 
 <!-- DROPBOX-BLOG:START -->
