@@ -526,8 +526,8 @@ Open Source Lead:
 
 <!-- SPOTIFY-BLOG:START -->
 #### 🎧 Spotify
+- **[When Can LLMs Replace Humans in A/B Tests?](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/)** · Aug 13, 2026
 - **[Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/)** · Jul 27, 2026
-- **[Content Ingestion & Podcast Video Incident Report](https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/)** · Jul 20, 2026
 <!-- SPOTIFY-BLOG:END -->
 
 <!-- NETFLIX-BLOG:START -->
