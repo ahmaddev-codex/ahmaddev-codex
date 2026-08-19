@@ -544,8 +544,8 @@ Open Source Lead:
 
 <!-- DROPBOX-BLOG:START -->
 #### 📦 Dropbox
+- **[Improving infrastructure efficiency for growing demand in the age of AI](https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai)** · Aug 18, 2026
 - **[How our universal content processing platform Riviera evolved for AI and beyond](https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond)** · Jul 20, 2026
-- **[How we used DSPy to turn AI evaluations into better responses in Dash chat](https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat)** · Jun 25, 2026
 <!-- DROPBOX-BLOG:END -->
 
 <br>
