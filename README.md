@@ -532,8 +532,8 @@ Open Source Lead:
 
 <!-- NETFLIX-BLOG:START -->
 #### 🎬 Netflix
+- **[A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4)** · Aug 21, 2026
 - **[How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4)** · Aug 7, 2026
-- **[Modeling Device Capabilities for Analytics](https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4)** · Jul 31, 2026
 <!-- NETFLIX-BLOG:END -->
 
 <!-- AIRBNB-BLOG:START -->
