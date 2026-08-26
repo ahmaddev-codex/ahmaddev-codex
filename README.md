@@ -538,8 +538,8 @@ Open Source Lead:
 
 <!-- AIRBNB-BLOG:START -->
 #### 🏠 Airbnb
+- **[Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize](https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4)** · Aug 25, 2026
 - **[How we knew COVID was over (and what our models had to unlearn)](https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4)** · Aug 19, 2026
-- **[Flexible Authentication: Reimagining authentication for millions of users at Airbnb](https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4)** · Aug 12, 2026
 <!-- AIRBNB-BLOG:END -->
 
 <!-- DROPBOX-BLOG:START -->
