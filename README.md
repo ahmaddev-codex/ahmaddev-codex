@@ -544,8 +544,8 @@ Open Source Lead:
 
 <!-- DROPBOX-BLOG:START -->
 #### 📦 Dropbox
+- **[Testing cookie behavior across hundreds of web surfaces with our in-house auditor](https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces)** · Aug 31, 2026
 - **[Improving infrastructure efficiency for growing demand in the age of AI](https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai)** · Aug 18, 2026
-- **[How our universal content processing platform Riviera evolved for AI and beyond](https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond)** · Jul 20, 2026
 <!-- DROPBOX-BLOG:END -->
 
 <br>
