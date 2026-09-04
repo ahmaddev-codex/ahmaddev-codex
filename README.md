@@ -526,8 +526,8 @@ Open Source Lead:
 
 <!-- SPOTIFY-BLOG:START -->
 #### 🎧 Spotify
+- **[Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/)** · Sep 3, 2026
 - **[When Can LLMs Replace Humans in A/B Tests?](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/)** · Aug 13, 2026
-- **[Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/)** · Jul 27, 2026
 <!-- SPOTIFY-BLOG:END -->
 
 <!-- NETFLIX-BLOG:START -->
