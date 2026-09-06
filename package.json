@@ -1,0 +1,12 @@
+{
+  "name": "ahmaddev-codex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile automation and scripts",
+  "scripts": {
+    "fetch-blogs": "node scripts/fetch-blogs.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
