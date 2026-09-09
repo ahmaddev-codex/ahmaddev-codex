@@ -291,8 +291,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎧 Spotify
 <!-- SPOTIFY-BLOG:START -->
 
+- **[Why Spotify Is Not Using Bayesian A/B Testing](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/)** · Sep 8, 2026
 - **[Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/)** · Sep 3, 2026
-- **[When Can LLMs Replace Humans in A/B Tests?](https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/)** · Aug 13, 2026
 
 <!-- SPOTIFY-BLOG:END -->
 
