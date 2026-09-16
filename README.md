@@ -315,8 +315,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🏠 Airbnb
 <!-- AIRBNB-BLOG:START -->
 
+- **[Beyond the model: Engineering AI infra with scientific judgement](https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4)** · Sep 15, 2026
 - **[Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize](https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4)** · Aug 25, 2026
-- **[How we knew COVID was over (and what our models had to unlearn)](https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4)** · Aug 19, 2026
 
 <!-- AIRBNB-BLOG:END -->
 
