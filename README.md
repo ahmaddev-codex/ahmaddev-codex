@@ -291,8 +291,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎧 Spotify
 <!-- SPOTIFY-BLOG:START -->
 
+- **[AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/)** · Sep 16, 2026
 - **[Why Spotify Is Not Using Bayesian A/B Testing](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/)** · Sep 8, 2026
-- **[Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/)** · Sep 3, 2026
 
 <!-- SPOTIFY-BLOG:END -->
 
@@ -315,8 +315,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🏠 Airbnb
 <!-- AIRBNB-BLOG:START -->
 
+- **[The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon](https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4)** · Sep 17, 2026
 - **[Beyond the model: Engineering AI infra with scientific judgement](https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4)** · Sep 15, 2026
-- **[Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize](https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4)** · Aug 25, 2026
 
 <!-- AIRBNB-BLOG:END -->
 
