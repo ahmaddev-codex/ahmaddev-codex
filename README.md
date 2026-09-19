@@ -302,8 +302,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎬 Netflix
 <!-- NETFLIX-BLOG:START -->
 
+- **[Leave the Class Path in the Rearview Mirror](https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4)** · Sep 18, 2026
 - **[MAPS: Netflix’s Multimodal Asset Personalization at Scale](https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4)** · Aug 28, 2026
-- **[A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4)** · Aug 21, 2026
 
 <!-- NETFLIX-BLOG:END -->
 
