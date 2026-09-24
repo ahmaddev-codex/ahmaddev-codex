@@ -326,8 +326,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 📦 Dropbox
 <!-- DROPBOX-BLOG:START -->
 
+- **[Dropbox CTO Ali Dasdan on moving from AI adoption to transformation](https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale)** · Sep 23, 2026
 - **[Introducing our new Dropbox API documentation](https://dropbox.tech/developers/new-dropbox-api-documentation)** · Sep 21, 2026
-- **[Testing cookie behavior across hundreds of web surfaces with our in-house auditor](https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces)** · Aug 31, 2026
 
 <!-- DROPBOX-BLOG:END -->
 
