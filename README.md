@@ -302,8 +302,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎬 Netflix
 <!-- NETFLIX-BLOG:START -->
 
+- **[Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute](https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4)** · Sep 25, 2026
 - **[Leave the Class Path in the Rearview Mirror](https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4)** · Sep 18, 2026
-- **[MAPS: Netflix’s Multimodal Asset Personalization at Scale](https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4)** · Aug 28, 2026
 
 <!-- NETFLIX-BLOG:END -->
 
