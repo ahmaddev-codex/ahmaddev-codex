@@ -315,8 +315,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🏠 Airbnb
 <!-- AIRBNB-BLOG:START -->
 
+- **[Personalization without user identity](https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4)** · Sep 29, 2026
 - **[The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon](https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4)** · Sep 17, 2026
-- **[Beyond the model: Engineering AI infra with scientific judgement](https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4)** · Sep 15, 2026
 
 <!-- AIRBNB-BLOG:END -->
 
@@ -326,8 +326,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 📦 Dropbox
 <!-- DROPBOX-BLOG:START -->
 
+- **[Evolving our calendar assistant Reclaim to be AI-native without starting over](https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native)** · Sep 29, 2026
 - **[Dropbox CTO Ali Dasdan on moving from AI adoption to transformation](https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale)** · Sep 23, 2026
-- **[Introducing our new Dropbox API documentation](https://dropbox.tech/developers/new-dropbox-api-documentation)** · Sep 21, 2026
 
 <!-- DROPBOX-BLOG:END -->
 
