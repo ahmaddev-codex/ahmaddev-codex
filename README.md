@@ -315,8 +315,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🏠 Airbnb
 <!-- AIRBNB-BLOG:START -->
 
+- **[Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb](https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4)** · Oct 6, 2026
 - **[Personalization without user identity](https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4)** · Sep 29, 2026
-- **[The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon](https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4)** · Sep 17, 2026
 
 <!-- AIRBNB-BLOG:END -->
 
