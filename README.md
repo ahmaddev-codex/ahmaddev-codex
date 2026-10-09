@@ -291,8 +291,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎧 Spotify
 <!-- SPOTIFY-BLOG:START -->
 
+- **[Introducing: Spotify Technology. Proven at Spotify, now yours.](https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/)** · Oct 8, 2026
 - **[AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/)** · Sep 16, 2026
-- **[Why Spotify Is Not Using Bayesian A/B Testing](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/)** · Sep 8, 2026
 
 <!-- SPOTIFY-BLOG:END -->
 
