@@ -291,8 +291,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎧 Spotify
 <!-- SPOTIFY-BLOG:START -->
 
+- **[Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/)** · Oct 16, 2026
 - **[Introducing: Spotify Technology. Proven at Spotify, now yours.](https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/)** · Oct 8, 2026
-- **[AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/)** · Sep 16, 2026
 
 <!-- SPOTIFY-BLOG:END -->
 
@@ -302,8 +302,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎬 Netflix
 <!-- NETFLIX-BLOG:START -->
 
+- **[Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4)** · Oct 16, 2026
 - **[Integrating Netflix’s Foundation Model into Personalization applications](https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4)** · Oct 14, 2026
-- **[DataJunction as Netflix’s answer to the missing piece of the modern data stack](https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4)** · Oct 14, 2026
 
 <!-- NETFLIX-BLOG:END -->
 
