@@ -302,8 +302,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎬 Netflix
 <!-- NETFLIX-BLOG:START -->
 
+- **[Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes](https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4)** · Oct 23, 2026
 - **[Single-tenant Titus: VM-level isolation on a multi-tenant container platform](https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4)** · Oct 22, 2026
-- **[Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4)** · Oct 16, 2026
 
 <!-- NETFLIX-BLOG:END -->
 
