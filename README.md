@@ -326,8 +326,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 📦 Dropbox
 <!-- DROPBOX-BLOG:START -->
 
-- **[Evolving our calendar assistant Reclaim to be AI-native without starting over](https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native)** · Sep 29, 2026
-- **[Dropbox CTO Ali Dasdan on moving from AI adoption to transformation](https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale)** · Sep 23, 2026
+- **[How two engineer side projects became the agent taking action inside Dropbox](https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox)** · Nov 5, 2026
+- **[How AI-assisted development helped us build the new Dropbox experience](https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience)** · Nov 5, 2026
 
 <!-- DROPBOX-BLOG:END -->
 
