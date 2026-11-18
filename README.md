@@ -302,8 +302,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎬 Netflix
 <!-- NETFLIX-BLOG:START -->
 
+- **[Engineering AI Discover](https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4)** · Nov 17, 2026
 - **[Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System](https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4)** · Nov 9, 2026
-- **[Making Failure Diagnosis Reliable with Pensive AI](https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4)** · Oct 26, 2026
 
 <!-- NETFLIX-BLOG:END -->
 
@@ -315,8 +315,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🏠 Airbnb
 <!-- AIRBNB-BLOG:START -->
 
+- **[De-identifying text at scale: How Airbnb protects personal data in AI training](https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4)** · Nov 17, 2026
 - **[Skipper, Airbnb’s embedded workflow engine, is now open source](https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4)** · Nov 10, 2026
-- **[CASTLE: training natural language search before the first real query](https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4)** · Oct 13, 2026
 
 <!-- AIRBNB-BLOG:END -->
 
