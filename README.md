@@ -291,8 +291,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎧 Spotify
 <!-- SPOTIFY-BLOG:START -->
 
+- **[When Can You Ship on Offline Evals Alone?](https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/)** · Nov 19, 2026
 - **[AI Product Management at Spotify: A View From Three Angles](https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/)** · Nov 9, 2026
-- **[Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/)** · Oct 16, 2026
 
 <!-- SPOTIFY-BLOG:END -->
 
