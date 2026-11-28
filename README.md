@@ -291,8 +291,8 @@ My engineering focuses on solving complex distributed and client-side systems ch
 #### 🎧 Spotify
 <!-- SPOTIFY-BLOG:START -->
 
+- **[September 29 Outage Incident Report: What we learnt](https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt/)** · Nov 27, 2026
 - **[When Can You Ship on Offline Evals Alone?](https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/)** · Nov 19, 2026
-- **[AI Product Management at Spotify: A View From Three Angles](https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/)** · Nov 9, 2026
 
 <!-- SPOTIFY-BLOG:END -->
 
